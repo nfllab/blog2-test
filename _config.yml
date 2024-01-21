@@ -1,6 +1,9 @@
+title: Miscellaneous posts of Ferenc László Nagy
+description: A place to post things to.
+author: Ferenc László Nagy
 remote_theme: jekyll/minima
 minima:
   skin: auto
-title: Super Blog2
-description: Here you will find posts.
-author: Ferenc László Nagy
+  social_links:
+    - { platform: github,  user_url: "https://github.com/nfllab" }
+    - { platform: mastodon, user_url: "https://infosec.exchange/@nflnfl" }
