@@ -1,6 +1,6 @@
 remote_theme: jekyll/minima
 minima:
-  skin: dark
+  skin: auto
 title: Super Blog2
 description: Here you will find posts.
 author: Ferenc László Nagy
